@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import checkers.ICheckersPiece;
 import checkers.Player;
-
+//test comment
 public class CheckersModel implements ICheckersModel{
 	// initialize board and player
 	private ICheckersPiece board[][];
